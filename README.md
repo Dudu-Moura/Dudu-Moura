@@ -8,6 +8,8 @@
 
 <img src="./assets/header.svg" width="100%" alt="EDUARDO MOURA — software engineer · typescript · backend" />
 
+<img src="./assets/bio.svg" width="100%" alt="Bio">
+
 <img src="./assets/about.svg" width="100%" alt="Sobre mim" />
 
 <a href="https://github.com/Dudu-Moura/astrofotos"><img src="./assets/project.svg" width="100%" alt="astrofotos" /></a>
