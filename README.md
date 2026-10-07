@@ -23,7 +23,7 @@
 
 <img width="100%" src="https://streak-stats.demolab.com?user=Dudu-Moura&locale=pt_BR&hide_border=true&background=0d0a24&ring=8b5cf6&fire=22d3ee&currStreakNum=22d3ee&sideNums=8b5cf6&currStreakLabel=8b5cf6&sideLabels=b6b0dc&dates=b6b0dc&stroke=3b1f78" alt="Streak" />
 
-<img src="https://raw.githubusercontent.com/Dudu-Moura/Dudu-Moura/output/snake.svg" width="100%" alt="destruindo commits" />
+<img src="./assets/game.gif" width="100%" alt="nave destruindo meus commits" />
 
 <img src="./assets/footer.svg" width="100%" alt="fim" />
 
